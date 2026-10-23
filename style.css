@@ -6,6 +6,8 @@ rectangle1{
     width: 4627px;
     height: 4221px;
     background: #434343;
+body{
+    background-color: grey;
 }
 rectangle{
     /* Rectangle 2 */
